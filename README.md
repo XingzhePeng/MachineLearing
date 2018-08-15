@@ -1,2 +1,2 @@
 # MachineLearing
-MachineLearing practice
+some practice on machine learing
